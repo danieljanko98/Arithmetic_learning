@@ -7,9 +7,7 @@ This repository includes code (only code since the data has not been published y
 
 ### Behavioral 
   This folder includes scripts to analyze and re/produce figures from the paper. 
-  Analysis_and_processing -- Some additional data cleaning and main analyses 
-  Plotting -- figures 
-  functions -- functions
+ 
 
 ### fMRI 
   #### Preprocessing 
