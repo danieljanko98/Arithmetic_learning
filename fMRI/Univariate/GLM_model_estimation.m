@@ -32,9 +32,8 @@ n_runs = numel(runs);
 fMRIpath = {{'/functional/addsub_1/epi1/', '/functional/addsub_1/epi2/','/functional/addsub_1/epi3', '/functional/addsub_1/epi4'};{'/functional/addsub_2/epi1', '/functional/addsub_2/epi2','/functional/addsub_2/epi3', '/functional/addsub_2/epi4'}};
 
 % Subjects
-% subjectList = {'sub8','sub9','sub10', 'sub11', 'sub14', 'sub15','sub16', 'sub17', 'sub18', 'sub19', 'sub20','sub21','sub23','sub24','sub25','sub26', 'sub28'};
-% subjectList = {'sub17'};
-subjectList = {'sub25'};
+subjectList = {'sub8','sub9','sub10', 'sub11', 'sub14', 'sub15','sub16', 'sub17', 'sub18', 'sub19', 'sub20','sub21','sub23','sub24','sub25','sub26', 'sub28'};
+
 
 % Additional parameters
 TRsecs = 1.8;
