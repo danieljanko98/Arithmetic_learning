@@ -3,8 +3,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % This script performs second-level analysis of MVPA decoding results. It
-% averages the scores accoross models, subjects, and ROIs. It runs a t-test
-% agains chance level for each ROI and model on the averaged data. 
+% averages the scores across models, subjects, and ROIs. It runs a t-test
+% against chance level for each ROI and model on the averaged data. 
 
 
 
